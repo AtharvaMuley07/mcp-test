@@ -1,3 +1,5 @@
+Hello world!
+
 # MCP Test Repository
 
 This repository serves as a test environment for MCP (Mission Control Protocol) functionality. It provides a space to experiment with and demonstrate various GitHub operations and integrations.
